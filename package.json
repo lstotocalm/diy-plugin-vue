@@ -1,0 +1,21 @@
+{
+  "name": "domainpool",
+  "version": "1.0.0",
+  "description": "ip 域名池",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "domain",
+    "pool",
+    "domainPool"
+  ],
+  "author": "lscalm",
+  "license": "ISC",
+  "files": [
+    "src/*.js",
+    "dist/*.js",
+    "types/*.d.ts"
+  ]
+}
