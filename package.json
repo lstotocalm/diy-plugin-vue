@@ -6,6 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lstotocalm/domainPool.git"
+  },
+  "typings": "types/index.d.ts",
   "keywords": [
     "domain",
     "pool",
@@ -17,5 +22,8 @@
     "src/*.js",
     "dist/*.js",
     "types/*.d.ts"
-  ]
+  ],
+  "devDependencies": {
+    "vue": "^2.6.10"
+  }
 }
